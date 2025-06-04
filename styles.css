@@ -87,6 +87,7 @@ body {
 	color: rgba(var(--color-orange-rgb),1);
 	background-color: rgba(var(--color-orange-rgb),.123);
 }  
+.inline-badge[data-inline-badge="hourglass"],
 .inline-badge[data-inline-badge="failure"],  
 .inline-badge[data-inline-badge="fail"],  
 .inline-badge[data-inline-badge="missing"],  

@@ -85,4 +85,5 @@ export const BADGE_TYPES:any[] = [
 	["reward", 'Reward', 'lucide-crown'],
 	["customized", 'Customized', 'hash'],
 	["vault", 'Vault', 'vault'],
+	["hourglass", 'Hourglass', 'hourglass'],
 ];
